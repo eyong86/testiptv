@@ -73,6 +73,8 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="",TV9 (720p)
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",KBS WORLD
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TVIKIM (720p) [Not 24/7]
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",TVS (576p)
