@@ -9,6 +9,12 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroQuanjia.my" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" group-title="",Astro 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroHuahee.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro 欢喜
+http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroOndemand.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro AOD
+http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="AstroIqiyi.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro IQIYI
+http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro Awani (1080p)
@@ -68,3 +74,5 @@ http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:-1 tvg-id="NHK.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
