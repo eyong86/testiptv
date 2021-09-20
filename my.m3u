@@ -45,9 +45,15 @@ http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-id="KBS.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1 tvg-id="Ohk.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Oh!K
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TVIKIM (720p) [Not 24/7]
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="TVS.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",TVS (576p)
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-id="NHK.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",ANIMAL PLANET
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="Natgeowild.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",NAT GEO wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
