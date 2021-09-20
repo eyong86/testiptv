@@ -23,12 +23,6 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro Ceria (720p)
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro Citra (720p) [Not 24/7]
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro Oasis (720p)
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-country="MY" tvg-language="Tamil" tvg-logo="" group-title="",Astro Vaanavil [Offline]
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 #EXTINF:-1 tvg-id="BeritaRTM.my" tvg-country="MY" tvg-language="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="",Berita RTM (1080p)
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
@@ -36,17 +30,12 @@ https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="Boo.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Boo (720p) [Not 24/7]
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="",CinemaWorld (576p) [Geo-blocked]
-http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF:-1 tvg-id="Hello.my" tvg-country="MY" tvg-language="English" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="",Hello [Offline]
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
-#EXTINF:-1 tvg-id="MaahTV.my" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="",Maah TV [Not 24/7]
-http://51.210.199.33/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Naura.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Naura (576p) [Not 24/7]
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV7.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="",NTV 7 (720p)
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:-1 tvg-id="OKEY.my" tvg-country="MY" tvg-language="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="",OKEY (1080p) [Offline]
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-country="MY" tvg-language="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tvSUKANlogo_NEW.jpg" group-title="",Sukan RTM (1080p) [Offline]
