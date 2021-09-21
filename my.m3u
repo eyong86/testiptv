@@ -56,19 +56,7 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="ch-12.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 tvg-id="tv051.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",民视
-rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
-#EXTINF:-1 tvg-id="tv071.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",台视
-rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
-#EXTINF:-1 tvg-id="tv091.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",中视
-rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
-#EXTINF:-1 tvg-id="tv111.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",华视
-rtmp://161.202.204.248:1935/sat/tv111
-#EXTINF:-1 tvg-id="tv421.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",TVBS欢乐台
-rtmp://161.202.204.248/sat/tv421
-#EXTINF:-1 tvg-id="tv761.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",MoMo综合
-rtmp://161.202.204.248/sat/tv761
-#EXTINF:-1 tvg-id="tv521.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",东森超视
-rtmp://161.202.204.248:1935/sat/tv521
+http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="ftvzy.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",民视综艺
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-id="ftvly.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",民视旅游
@@ -83,8 +71,6 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-id="NHK.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",NHK Chinese Vision
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="tv771.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",纬来日本
-rtmp://161.202.204.248/sat/tv771
 #EXTINF:-1 tvg-id="AnimalPlanet.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-id="Natgeowild.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",NAT GEO wild
