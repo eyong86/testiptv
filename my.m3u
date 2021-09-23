@@ -51,6 +51,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="Wlt.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",翡翠华丽台
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="J2.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="tv-84.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="ch-12.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Now Sports Prime
@@ -61,6 +63,8 @@ http://seb.sason.top/ptv/ftv.php?id=ms
 http://seb.sason.top/ptv/ftv.php?id=zy
 #EXTINF:-1 tvg-id="ftvly.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",民视旅游
 http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 tvg-id="momo.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",MoMo综合
+http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="KBS.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-id="Ohk.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Oh!K
