@@ -85,3 +85,5 @@ http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJuniorAsia.us" tvg-country="ASIA" tvg-language="" tvg-logo="" group-title="Kids",Disney Junior Asia (720p)
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",CCTV-5+体育赛事
+http://117.169.120.132:8080/live/hdcctv05plus/playlist.m3u8
